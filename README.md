@@ -41,6 +41,9 @@ The optimal runtime of a film is approximately 90 minutes (60 min to 120 min)
 Cross-genre documentaries, reality-tv, history, sport, drama and game-show attract a high rating. Of particular focus is the documentary genre which seems to be popular with many. 
 ### Recommendations
 •	Foreign markets provide more opportunity to maximize profits than the domestic market. However, they require huge investments in marketing.
+
 •	Comedy films are very popular. They have two obvious advantages of being low cost and highly versatile that they can be integrated into other genres.
+
 •	A film should last approximately 90 minutes (60 min - 120 min) to ensure that viewers maximize utility.
+
 •	Documentaries provide an easy opportunity to enter into the market as they are low cost and require less marketing as they are based on individuals who already have a following or are based on events that most people are familiar with.
