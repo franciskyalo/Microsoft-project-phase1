@@ -8,11 +8,12 @@ Microsoft wants to establish a movie studio in its bid to expand beyond the prod
 In a highly volatile industry like the film industry, there is no better way to understand it than to look at the existing data for insights which are actionable and will enable Microsoft to exploit opportunities that are there. Data has been labeled as the ‘new oil’ as it is the one true and proven way of validating hype. Microsoft is looking for solid facts which can help it establish a movie studio and hit the ground running. 
 ### Data analysis and recommendations
 For this project, the following datasets will be used:
+
 1.Bommovie dataset which contains data on title of the film, studio that produced film, domestic_gross profits, Foreign_gross profits and Year when the film was produced.
 
-2.	Movie_info dataset which has data on genre, director, box-office revenue and runtime. 
+2.Movie_info dataset which has data on genre, director, box-office revenue and runtime. 
 
-3.	3.	IMDb database which contains data on various characteristics of films produced around the world.
+3.IMDb database which contains data on various characteristics of films produced around the world.
 
 Using a cocktail of descriptive statistics and data visualization, data will be analyzed to look for insights guided by the following hypotheses;
 1.	Which studios are currently performing well and are expected to be potential competitors?
