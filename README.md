@@ -1,12 +1,12 @@
 ## MICROSOFT PROJECT
-### Introduction
+## Introduction
 Microsoft wants to establish a movie studio in its bid to expand beyond the products it currently offers. However, the film industry is very unpredictable and there is need to have an established set of facts that the executives can use to make the right decision when entering the market.
 
 ![image](https://user-images.githubusercontent.com/94622826/202861113-e2ab6be5-0e35-4136-abd7-a7b577bed216.png)
 
-### Business understanding 
+## Business understanding 
 In a highly volatile industry like the film industry, there is no better way to understand it than to look at the existing data for insights which are actionable and will enable Microsoft to exploit opportunities that are there. Data has been labeled as the ‘new oil’ as it is the one true and proven way of validating hype. Microsoft is looking for solid facts which can help it establish a movie studio and hit the ground running. 
-### Data analysis and recommendations
+## Data analysis and recommendations
 For this project, the following datasets will be used:
 
 1.Bommovie dataset which contains data on title of the film, studio that produced film, domestic_gross profits, Foreign_gross profits and Year when the film was produced.
@@ -56,7 +56,7 @@ The optimal runtime of a film is approximately 90 minutes (60 min to 120 min)
 ### Which are the top ten highly rated genres?
 ![image](https://user-images.githubusercontent.com/94622826/202861435-b8550f1a-d177-49ca-a002-5b1f8a6c52c0.png)
 Cross-genre documentaries, reality-tv, history, sport, drama and game-show attract a high rating. Of particular focus is the documentary genre which seems to be popular with many. 
-### Recommendations
+## Recommendations
 •	Foreign markets provide more opportunities to maximize profits than the domestic market. However, they require huge investments in marketing.
 
 •	Comedy films are very popular. They have two obvious advantages of being low cost and highly versatile that they can be integrated into other genres.
