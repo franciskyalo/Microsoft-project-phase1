@@ -55,6 +55,7 @@ Comedy movies make good money on the box office because they do not require huge
 The optimal runtime of a film is approximately 90 minutes (60 min to 120 min)
 ### Which are the top ten highly rated genres?
 ![image](https://user-images.githubusercontent.com/94622826/202861435-b8550f1a-d177-49ca-a002-5b1f8a6c52c0.png)
+
 Cross-genre documentaries, reality-tv, history, sport, drama and game-show attract a high rating. Of particular focus is the documentary genre which seems to be popular with many. 
 ## Recommendations
 •	Foreign markets provide more opportunities to maximize profits than the domestic market. However, they require huge investments in marketing.
